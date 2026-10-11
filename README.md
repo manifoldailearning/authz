@@ -1,4 +1,4 @@
-# July Cohort
+# October Cohort
 Repository for Agentic AI Bootcamp 
 
 # Windows - Anaconda Prompt
